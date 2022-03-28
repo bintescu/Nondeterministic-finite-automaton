@@ -1,0 +1,15 @@
+linia 2 = nr de simboluri ; linia 3 = alfabetul ; linia 4 = starea initiala ; linia 5 = starile finale ; linia = 6 nr de tranzitii; tranzitiile
+2
+a b
+1
+4 7
+9
+1 a 1
+1 b 1
+1 a 2
+2 a 3
+3 b 4
+1 b 5
+5 a 6
+6 a 7
+
